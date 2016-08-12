@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-<table border="0" align="right">
+<table border="0" align="left">
 <tr>
 <td><img src="/me2.jpg"></td>
 </tr>
