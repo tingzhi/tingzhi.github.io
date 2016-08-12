@@ -13,7 +13,6 @@ permalink: /about/
 <p>
 <br>
 <br>
-<br>
 <a href="https://tingzhi.github.io">Tingzhi Li</a><br>
 M.S. in Electrical and Computer Engineering, September 2016<br>
 <a href="http://eecs.oregonstate.edu/research/research-areas/networking-communications-systems">Networking, Communications, and Computer Systems Group</a><br>
