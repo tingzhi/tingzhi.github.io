@@ -7,20 +7,13 @@ permalink: /about/
 <table border="0" align="left">
 <tr>
 <td><img src="/me2.jpg"></td>
-</tr>
-</table> 
-<p><a href="https://tingzhi.github.io">Tingzhi Li</a><br>
+<td><p><a href="https://tingzhi.github.io">Tingzhi Li</a><br>
 M.S. in Electrical and Computer Engineering, September 2016<br>
 <a href="http://eecs.oregonstate.edu/research/research-areas/networking-communications-systems">Networking, Communications, and Computer Systems Group</a><br>
 <a href="http://eecs.oregonstate.edu/">School of Electrical Engineering and Computer Science</a><br>
 <a href="http://oregonstate.edu/">Oregon State University</a></p>
-
-
-[Tingzhi Li](https://tingzhi.github.io)   
-M.S. in Electrical and Computer Engineering, September 2016   
-[Networking, Communications, and Computer Systems Group](http://eecs.oregonstate.edu/research/research-areas/networking-communications-systems)   
-[School of Electrical Engineering and Computer Science](http://eecs.oregonstate.edu/)   
-[Oregon State University](http://oregonstate.edu/)
+</tr>
+</table> 
 
 I received the B.S degree in Electronic and Information Science and Technology from Suzhou University of Science and Technology, Jiangsu, China, in 2013. I am currently working toward my M.S. degree advised by Dr. Bechir Hamdaoui at the School of Electrical Engineering and Computer Science (EECS), Oregon State University. My research focuses on energy-aware gossip-based broadcast protocol for Wireless Sensor Networks.
 
