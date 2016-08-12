@@ -10,13 +10,13 @@ permalink: /about/
 <td><img src="/me2.jpg"></td>
 </tr>
 </table>
-<p>Here is some sample text. Here is some sample text. Here is some sample text.
-Here is some sample text. Here is some sample text. Here is some sample text.
+<p>
+<a href="https://tingzhi.github.io">Tingzhi Li</a><br>
+M.S. in Electrical and Computer Engineering, September 2016<br>
+<a href="http://eecs.oregonstate.edu/research/research-areas/networking-communications-systems">Networking, Communications, and Computer Systems Group</a><br>
+<a href="http://eecs.oregonstate.edu/">School of Electrical Engineering and Computer Science</a><br>
+<a href="http://oregonstate.edu/">Oregon State University</a>
 </p>
-<p>Here is some sample text. Here is some sample text. Here is some sample text.
-Here is some sample text. Here is some sample text. Here is some sample text.
-Here is some sample text. Here is some sample text. Here is some sample text.
-</p> 
 
 
 <table border="0" align="left">
