@@ -1,7 +1,4 @@
 ---
-published: true
----
----
 layout: post
 title: Hear the Wind Sing
 ---
