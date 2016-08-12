@@ -4,6 +4,21 @@ title: About
 permalink: /about/
 ---
 
+
+<table border="0" align="right">
+<tr>
+<td><img src="me2.jpg"></td>
+</tr>
+</table>
+<p>Here is some sample text. Here is some sample text. Here is some sample text.
+Here is some sample text. Here is some sample text. Here is some sample text.
+</p>
+<p>Here is some sample text. Here is some sample text. Here is some sample text.
+Here is some sample text. Here is some sample text. Here is some sample text.
+Here is some sample text. Here is some sample text. Here is some sample text.
+</p> 
+
+
 <table border="0" align="left">
 <tr>
 <td><img src="/me2.jpg"></td>
@@ -14,6 +29,7 @@ M.S. in Electrical and Computer Engineering, September 2016<br>
 <a href="http://oregonstate.edu/">Oregon State University</a></p></td>
 </tr>
 </table> 
+
 
 I received the B.S degree in Electronic and Information Science and Technology from Suzhou University of Science and Technology, Jiangsu, China, in 2013. I am currently working toward my M.S. degree advised by Dr. Bechir Hamdaoui at the School of Electrical Engineering and Computer Science (EECS), Oregon State University. My research focuses on energy-aware gossip-based broadcast protocol for Wireless Sensor Networks.
 
