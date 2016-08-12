@@ -15,7 +15,10 @@ permalink: /about/
 M.S. in Electrical and Computer Engineering, September 2016<br>
 <a href="http://eecs.oregonstate.edu/research/research-areas/networking-communications-systems">Networking, Communications, and Computer Systems Group</a><br>
 <a href="http://eecs.oregonstate.edu/">School of Electrical Engineering and Computer Science</a><br>
-<a href="http://oregonstate.edu/">Oregon State University</a>
+<a href="http://oregonstate.edu/">Oregon State University</a><br>
+<br>
+<br>
+<br>
 </p>
 
 
