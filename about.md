@@ -7,7 +7,7 @@ permalink: /about/
 
 <table border="0" align="left">
 <tr>
-<td><img src="/me2.jpg"></td>
+<td><img src="/me2.jpg" hspace="20"></td>
 </tr>
 </table>
 <p>
