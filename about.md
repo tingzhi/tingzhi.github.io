@@ -23,7 +23,7 @@ M.S. in Electrical and Computer Engineering, September 2016<br>
 </p>
 
 
-I received the B.S degree in Electronic and Information Science and Technology from Suzhou University of Science and Technology, Jiangsu, China, in 2013. I am currently working toward my M.S. degree advised by Dr. Bechir Hamdaoui at the School of Electrical Engineering and Computer Science (EECS), Oregon State University. My research focuses on energy-aware gossip-based broadcast protocol for Wireless Sensor Networks.
+I received the B.S degree in Electronic and Information Science and Technology from Suzhou University of Science and Technology, Jiangsu, China, in 2013. I am currently working toward my M.S. degree advised by Dr. Bechir Hamdaoui at the School of Electrical Engineering and Computer Science (EECS), Oregon State University. My research focuses on energy-aware gossip-based broadcast protocol for wireless sensor networks.
 
 In my spare time, I enjoy woodworking, playing tennis, and cooking.
 

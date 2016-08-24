@@ -3,6 +3,8 @@ layout: post
 title: Hear the Wind Sing
 ---
 
+##### By Haruki Murakami
+
 ## 1
 
 "There's no such thing as a perfect piece of writing. Just as there's no such thing as perfect depair." So said a writer I bumped into back when I was a university student. It wasn't until much later that I could grasp his full meaning, but I still found consolation in his words -- that there's no such thing as perfect writing.
