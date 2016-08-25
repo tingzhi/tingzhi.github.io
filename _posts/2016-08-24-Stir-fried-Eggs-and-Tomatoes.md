@@ -9,10 +9,10 @@ title: Stir-fried Eggs and Tomatoes
 - 2 eggs
 - 1 scallion, finely chopped
 - 1 teaspoon cornstarch, dissolved in 2 tablespoons water
-- 1/4 cup water (60ml) 
+- 1/4 cup water
 - 2 tablespoons ketchup
 - 1/4 teaspoon salt
-- 1 teaspoon sugar
+- 1 tablespoon sugar
 - 3 tablespoons vegetable oil
 
 ## Instructions
@@ -21,7 +21,7 @@ title: Stir-fried Eggs and Tomatoes
 
 2. In another wok over medium-high heat, add 1-1/2 tablespoons oil, scallion, and tomato. Stir-frying the tomato for a minute. 
 
-3. Add 2 tablespoons ketchup, 1 teaspoon sugar. Cook for 30 seconds. Then add 1/4 cup water.
+3. Add 2 tablespoons ketchup, 1 tablespoon sugar. Cook for 30 seconds. Then add 1/4 cup water.
 
 4. Stir in the cornstarch slurry. Cook for 30 seconds until the sauce has thickened. Add the scrambled eggs back to the wok and mix well for about 10 seconds and serve. 
 

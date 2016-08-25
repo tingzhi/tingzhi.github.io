@@ -84,3 +84,7 @@ Cover letter
 
 Resume
 
+# Data Process Workflow
+
+## Getting average, minimum, maximum, standard deviation
+
